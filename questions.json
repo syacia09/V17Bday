@@ -1,26 +1,56 @@
 [
-    {
-        "question": "Inside which HTML element do we put the JavaScript?", 
-        "choice1": "<script>", 
-        "choice2": "<javascript>", 
-        "choice3": "<js>", 
-        "choice4": "<scripting>", 
-        "answer": 1
-    }, 
-    {
-        "question": "What is the correct syntax for referring to an external script called 'xxx.js'?",
-        "choice1": "<script href='xxx.js'>", 
-        "choice2": "<script name='xxx.js'>",
-        "choice3": "<script src='xxx.js'>",
-        "choice4": "<script file='xxx.js'>",
-        "answer": 3
-    }, 
-    {
-       "question": "How do you write 'Hello World' in an alert box?",
-       "choice1": "msgBox('Hello World');",
-       "choice2": "alertBox('Hello World')", 
-       "choice3": "msg('Hello World')",
-       "choice4": "alert('Hello World')", 
-       "answer":     4
-    }
+  {
+    "question": "Siapakah pacar Vanesa Evelin",
+    "choice1": "Adkel gemoy",
+    "choice2": "Kakel kulbet most wanted",
+    "choice3": "Duke Utara yang dinginnya melebihi kulkas 4 pintu",
+    "choice4": "Ga ada, dia jomblo :",
+    "answer": 4,
+    "wrong_message": "Bukann wleee"
+  },
+  {
+    "question": "Apa makanan yang paling vanes SUKA dan CINTA?",
+    "choice1": "Sweety Cutie Cookie Carolina Carrot",
+    "choice2": "Buttery sweet pancake with chocolate and cheese at the top",
+    "choice3": "Seaweed rice roll with some vegetables and nuggets",
+    "choice4": "Deep-Fried Meatball Chips with a Lot of MSG",
+    "answer": 1,
+    "wrong_message": "Masa ga tauuu siiiii~"
+  },
+  {
+    "question": "Apa hobi vanes?",
+    "choice1": "Ngedate w/ bubub biologi",
+    "choice2": "Ngehalu",
+    "choice3": "Jadi WW dan bully keisya yang paling imut, lucu dan menggemaskan",
+    "choice4": "Jadi nyamuk profesional')",
+    "answer": 3,
+    "wrong_message": "Kamu bukan vanes ini pasti ckckckckc"
+  },
+  {
+    "question": "Siapa nama anak vanes yang jarang mandi?",
+    "choice1": "Ballerina calvinina",
+    "choice2": "Ballerina gumgumnia",
+    "choice3": "Ballerina tristantina",
+    "choice4": "Ballerina nuggetina')",
+    "answer": 3,
+    "wrong_message": "Parah si tristan dilupain, sini nak sm onty keisya ajah~"
+  },
+  {
+    "question": "Siapa istri Vanesa?",
+    "choice1": "Bubub Biologi",
+    "choice2": "Shellay (Shelly always Slay)",
+    "choice3": "Angel (Professional Mosquitoes with Master Degree)",
+    "choice4": "Faustine (Our korean eonnie)",
+    "answer": 2,
+    "wrong_message": "Shelly bilek : tegah kamu sumay"
+  },
+  {
+    "question": "Kalimat yang paling sering vanes sebut?",
+    "choice1": "Gigiiiiii",
+    "choice2": "Aku bangun pagi kok:",
+    "choice3": "Salam Nagaaa",
+    "choice4": "Kei, error! hehehehehehehheh",
+    "answer": 2,
+    "wrong_message": "Mbak panes, mbak panes~"
+  }
 ]
